@@ -2,4 +2,4 @@ menuconfig EXAMPLES_SERVO
 	bool "servo"
 	default n
 	---help---
-		Enable support for px4_simple_app
+		Enable support for servo
